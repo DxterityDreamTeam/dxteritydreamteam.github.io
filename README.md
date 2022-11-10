@@ -5,4 +5,4 @@ You can find information and tricks about *just-the-docs* theme on [this page](h
 
 Our github page is of course:
 
-# [dxteritydreamteam.github.io](dxteritydreamteam.github.io)
+# [dxteritydreamteam.github.io](https://dxteritydreamteam.github.io)
