@@ -1,3 +1,10 @@
+---
+layout: default
+title: Test
+nav_order: 2
+has_children: False
+---
+
 # This is a test
 
 just a test
